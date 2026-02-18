@@ -3,7 +3,7 @@
 An extensible and cross-compatible testing framework.
 
 |---------+-----------------------------------------------|
-| source  | git:https://github.com/Shinmera/parachute.git |
-| commit  | 9a6679e                                       |
+| source  | git:https://codeberg.org/shinmera/parachute.git |
+| commit  | 0000000                                       |
 | systems | parachute                                     |
 |---------+-----------------------------------------------|
