@@ -4,6 +4,6 @@ An extensible and cross-compatible testing framework.
 
 |---------+-----------------------------------------------|
 | source  | git:https://codeberg.org/shinmera/parachute.git |
-| commit  | c365ecc                                       |
+| commit  | c704a92                                       |
 | systems | parachute                                     |
 |---------+-----------------------------------------------| 
